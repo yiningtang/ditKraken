@@ -1,0 +1,13 @@
+html,body{
+	width:100%;
+	min-height: 100%;
+	overflow-x:hidden;
+	margin:0;
+}
+div.layout{
+	border:1px solid black;
+	position: relative;
+	left:0;
+	top:0;
+	height: 100%;
+}

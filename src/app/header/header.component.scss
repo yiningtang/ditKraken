@@ -1,0 +1,11 @@
+ul.header{
+	border:1px solid red;
+	height: 20vh;
+	position: relative;
+	top:0;
+	left:0;
+	margin-left:10em;
+	li{
+		display: inline-block;
+	}
+}
